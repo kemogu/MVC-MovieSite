@@ -1,0 +1,17 @@
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.business\bin\Debug\net8.0\movieSiteApp.business.deps.json
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.business\bin\Debug\net8.0\movieSiteApp.business.dll
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.business\bin\Debug\net8.0\movieSiteApp.business.pdb
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.business\bin\Debug\net8.0\movieSiteApp.data.dll
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.business\bin\Debug\net8.0\movieSiteApp.entity.dll
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.business\bin\Debug\net8.0\movieSiteApp.entity.pdb
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.business\bin\Debug\net8.0\movieSiteApp.data.pdb
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.business\obj\Debug\net8.0\movieSiteApp.business.csproj.AssemblyReference.cache
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.business\obj\Debug\net8.0\movieSiteApp.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.business\obj\Debug\net8.0\movieSiteApp.business.AssemblyInfoInputs.cache
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.business\obj\Debug\net8.0\movieSiteApp.business.AssemblyInfo.cs
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.business\obj\Debug\net8.0\movieSiteApp.business.csproj.CoreCompileInputs.cache
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.business\obj\Debug\net8.0\movieSiteApp.business.csproj.CopyComplete
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.business\obj\Debug\net8.0\movieSiteApp.business.dll
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.business\obj\Debug\net8.0\refint\movieSiteApp.business.dll
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.business\obj\Debug\net8.0\movieSiteApp.business.pdb
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.business\obj\Debug\net8.0\ref\movieSiteApp.business.dll

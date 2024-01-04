@@ -1,0 +1,39 @@
+@model List<movieSiteApp.entity.Movie>
+
+<h2>Movie List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Duration</th>
+            <th>Release Date</th>
+            <th>IMDb Rating</th>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var movie in Model)
+        {
+            <tr>
+                <td>@movie.Id</td>
+                <td>@movie.Title</td>
+                <td>@movie.Duration</td>
+                <td>@movie.ReleaseDate.ToShortDateString()</td>
+                <td>@movie.ImdbRating</td>
+                <td>@movie.Description</td>
+                <td>
+                    <a href="@Url.Action("Details", "Movies", new { id = movie.Id })" class="btn btn-success">Details</a>
+                    <a href="@Url.Action("Edit", "Movies", new { id = movie.Id })" class="btn btn-primary">Edit</a>
+                    <a href="@Url.Action("Delete", "Movies", new { id = movie.Id })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div style="margin-top: 20px;">
+    <a href="@Url.Action("Create", "Movies")" class="btn btn-primary">Add Movie</a>
+</div>

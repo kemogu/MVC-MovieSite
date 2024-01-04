@@ -1,0 +1,11 @@
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.entity\bin\Debug\net8.0\movieSiteApp.entity.deps.json
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.entity\bin\Debug\net8.0\movieSiteApp.entity.dll
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.entity\bin\Debug\net8.0\movieSiteApp.entity.pdb
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.entity\obj\Debug\net8.0\movieSiteApp.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.entity\obj\Debug\net8.0\movieSiteApp.entity.AssemblyInfoInputs.cache
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.entity\obj\Debug\net8.0\movieSiteApp.entity.AssemblyInfo.cs
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.entity\obj\Debug\net8.0\movieSiteApp.entity.csproj.CoreCompileInputs.cache
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.entity\obj\Debug\net8.0\movieSiteApp.entity.dll
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.entity\obj\Debug\net8.0\refint\movieSiteApp.entity.dll
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.entity\obj\Debug\net8.0\movieSiteApp.entity.pdb
+C:\Users\Kemal\Desktop\movieSiteApp\movieSiteApp.entity\obj\Debug\net8.0\ref\movieSiteApp.entity.dll

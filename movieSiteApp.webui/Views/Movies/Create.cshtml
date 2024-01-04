@@ -1,0 +1,48 @@
+@model movieSiteApp.webui.Models.MovieCategoryViewModel
+
+<h2>Create Movie</h2>
+
+<form asp-action="Create" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="Movie.Title" class="control-label"></label>
+        <input asp-for="Movie.Title" class="form-control" />
+        <span asp-validation-for="Movie.Title" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Movie.Duration" class="control-label"></label>
+        <input asp-for="Movie.Duration" class="form-control" />
+        <span asp-validation-for="Movie.Duration" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Movie.ReleaseDate" class="control-label"></label>
+        <input asp-for="Movie.ReleaseDate" class="form-control" />
+        <span asp-validation-for="Movie.ReleaseDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Movie.ImdbRating" class="control-label"></label>
+        <input asp-for="Movie.ImdbRating" class="form-control" />
+        <span asp-validation-for="Movie.ImdbRating" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Movie.Description" class="control-label"></label>
+        <input asp-for="Movie.Description" class="form-control" />
+        <span asp-validation-for="Movie.Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="SelectedCategoryIds" class="control-label">Select Categories</label>
+        @foreach (var category in Model.Categories)
+        {
+            <div class="form-check">
+                <input type="checkbox" name ="SelectedCategoryIds" class="form-check-input" value="@category.Id" />
+                <label class="form-check-label">@category.Name</label>
+            </div>
+        }
+        <span asp-validation-for="SelectedCategoryIds" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
